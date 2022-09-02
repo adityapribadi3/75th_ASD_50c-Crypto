@@ -7,7 +7,7 @@ Solving 75th Australian Signals Directorate 50 cents Coin
 ![Heads](/0002517_75th-anniversary-of-the-australian-signals-directorate-50c-uncirculated-coin-2022.jpeg)
 
 ### Braille in Coin
-![BrailleCoin](/Braille-Coin.png)
+![BrailleCoin](/BrailleCoin.png)
 
 ### Logo in Queen Elizabeth
 > JC
@@ -47,6 +47,8 @@ Solving 75th Australian Signals Directorate 50 cents Coin
 ## Solution
 In Heads we got the on some of the characters with braille
 Reorder the character based on the Braille we will get the result
+
+![BrailleResult](/BrailleResult.png)
 
 
 

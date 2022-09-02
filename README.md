@@ -58,12 +58,28 @@ Time to decode all what we know from the coin
 
 ### Outer Ring
 #### Lower
-FINDCLARITYIN7WIDTHX5DEPTH
+> FINDCLARITYIN7WIDTHX5DEPTH
+### Readable Text from Lower
+> FIND CLARITY IN 7 WIDTH X 5 DEPTH
 
 #### Upper
-WEAREAUDACIOUSINCONCEPTANDMETICULOUSINEXECUTION
+> WEAREAUDACIOUSINCONCEPTANDMETICULOUSINEXECUTION
+### Readable Text from upper
+> WE ARE AUDACIOUS IN CONCEPT AND METICULOUS IN EXECUTION
 
 Only this two we can dechipher with Atbash decoder
+
+From the clue we can create a matrix with 7 x 5 dimmension to a find the clarity
+so lets make one on spreadsheets
+
+![Matrix](/Matrix.png)
+
+from the coloured text on the matrix we can see
+
+### Matrix Result
+> BELONGING TO A GREAT TEAM STRIVING FOR EXCELLENCE WE MAKE A DIFFERENCE XOR HEX A5D75
+
+
 
 
 

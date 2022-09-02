@@ -113,3 +113,20 @@ Finally, you will get the final text
 ### Symbol in Coin
 From the official website the meaning of the symbol is ASD
 ![ASDWeb](/ASDWeb.png)
+
+
+### Inner Coin
+The text in inner coin only have nornal and bold text
+its a clue that it can be transtaled into 1 and 0 with 7 digit
+so it comes up with binary ASCII code
+based on the table from https://www.dcode.fr/ascii-code and my previous spreadsheets
+
+we can see the text result
+![ASCII](/CodeASCII.png)
+
+### Bonus Text
+> ASDCbr2022
+
+
+
+

@@ -75,6 +75,7 @@ Time to decode all what we know from the coin
 
 ## Answer 2
 > FIND CLARITY IN 7 WIDTH X 5 DEPTH
+
 > WE ARE AUDACIOUS IN CONCEPT AND METICULOUS IN EXECUTION
 
 Only this two we can decipher with Atbash decoder

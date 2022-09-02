@@ -12,6 +12,7 @@ https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-comme
 
 ### Logo in Queen Elizabeth
 > JC
+JC is initial for the coin designer Jody Clark 
 
 ## Tails
 ![Heads](/0002515_75th-anniversary-of-the-australian-signals-directorate-50c-uncirculated-coin-2022.jpeg)

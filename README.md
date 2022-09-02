@@ -1,4 +1,4 @@
-# Dechipher 75th Australian Signals Directorate (ASD) 50 cents Coin
+# Decipher 75th Australian Signals Directorate (ASD) 50 cents Coin
 Solving 75th Australian Signals Directorate 50 cents Coin
 https://www.asd.gov.au/75th-anniversary/events/2022-09-01-75th-anniversary-commemorative-coin
 
@@ -68,7 +68,7 @@ Time to decode all what we know from the coin
 ### Readable Text from upper
 > WE ARE AUDACIOUS IN CONCEPT AND METICULOUS IN EXECUTION
 
-Only this two we can dechipher with Atbash decoder
+Only this two we can decipher with Atbash decoder
 
 From the clue we can create a matrix with 7 x 5 dimmension to a find the clarity
 so lets make one on spreadsheets

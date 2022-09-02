@@ -56,33 +56,38 @@ Reorder the character based on the Braille we will get the result
 
 ![BrailleResult](/BrailleResult.png)
 
+
+## Answer 1
+> ATBASH
+
 Search "Atbash" on Google you will found Atbash Cipher
 
 Lets open Atbash Decoder https://www.dcode.fr/atbash-cipher
 
 Time to decode all what we know from the coin
 
-### Outer Ring
+### Outer Ring Result
 #### Lower
 > FINDCLARITYIN7WIDTHX5DEPTH
-### Readable Text from Lower
-> FIND CLARITY IN 7 WIDTH X 5 DEPTH
 
 #### Upper
 > WEAREAUDACIOUSINCONCEPTANDMETICULOUSINEXECUTION
-### Readable Text from upper
+
+## Answer 2
+> FIND CLARITY IN 7 WIDTH X 5 DEPTH
 > WE ARE AUDACIOUS IN CONCEPT AND METICULOUS IN EXECUTION
 
 Only this two we can decipher with Atbash decoder
 
+### Inner Ring
 From the clue we can create a matrix with 7 x 5 dimmension to a find the clarity
 so lets make one on spreadsheets
 
 ![Matrix](/Matrix.png)
 
-from the coloured text on the matrix we can see
+from the coloured text on the matrix we can see the result
 
-### Matrix Result
+## Answer 3
 > BELONGING TO A GREAT TEAM STRIVING FOR EXCELLENCE WE MAKE A DIFFERENCE XOR HEX A5D75
 
 From the next clue we need to xor the cipher with A5D75
@@ -100,10 +105,10 @@ XOR Hex A5D75 put it in the "I. Input: hexadecimal (base 16)" make sure we have 
 Finally, you will get the final text
 ![FinalText](/FinalText.png)
 
-### Final Text
+## Answer 4
 > For 75 years the Australian Signals Directorate has brought together people with the skills, adaptability and imagination to operate in the slim area between the difficult and the impossible.
 
+## Bonus
 ### Symbol in Coin
 From the official website the meaning of the symbol is ASD
 ![ASDWeb](/ASDWeb.png)
-

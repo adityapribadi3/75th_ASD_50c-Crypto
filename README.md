@@ -133,11 +133,13 @@ The text on outer layer have 3 type characters normal, bold and stripe
 from this we can guess its a morse code because it have dot, dash and space
 
 > Bold = dot
+
 > Normal = dash
-> Stripe = space
+
+> Stripe/Italic = space
 
 from the outer text
-> **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M**.UR***M***W***X***O**Z**I***R*G*B***R**M7**D***R***W**G*S***C**5**W***V*K**G**S
+> **D**VZIV*Z*FWZX**R***L***FHRM**X*L*MX**VKG***ZM*W**NV***G***RXF***O*L**FHR***M***V**C*V***X**F**GR***L*M**"."UR***M***W***X***O**Z**I***R*G*B***R**M7**D***R***W**G*S***C**5**W***V*K**G**S
 
 
 

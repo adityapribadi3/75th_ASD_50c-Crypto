@@ -6,6 +6,12 @@ Solving 75th Australian Signals Directorate 50 cents Coin
 ## Heads
 ![Heads](/0002517_75th-anniversary-of-the-australian-signals-directorate-50c-uncirculated-coin-2022.jpeg)
 
+### Braile in Coin
+![BraileCoin](/Braile-Coin.png)
+
+### Logo in Queen Elizabeth
+> JC
+
 ## Tails
 ![Heads](/0002515_75th-anniversary-of-the-australian-signals-directorate-50c-uncirculated-coin-2022.jpeg)
 

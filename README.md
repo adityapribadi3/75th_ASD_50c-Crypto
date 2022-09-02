@@ -50,6 +50,12 @@ Reorder the character based on the Braille we will get the result
 
 ![BrailleResult](/BrailleResult.png)
 
+Search "Atbash" on Google you will found Atbash Cipher
+
+Lets open Atbash Decoder https://www.dcode.fr/atbash-cipher
+
+
+
 
 
 

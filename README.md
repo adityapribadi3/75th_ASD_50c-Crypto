@@ -54,6 +54,20 @@ Search "Atbash" on Google you will found Atbash Cipher
 
 Lets open Atbash Decoder https://www.dcode.fr/atbash-cipher
 
+Time to decode all what we know from the coin
+
+### Outer Ring
+#### Lower
+FINDCLARITYIN7WIDTHX5DEPTH
+
+#### Upper
+WEAREAUDACIOUSINCONCEPTANDMETICULOUSINEXECUTION
+
+Only this two we can dechipher with Atbash decoder
+
+
+
+
 
 
 

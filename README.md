@@ -1,7 +1,7 @@
 # Dechipher 75th Australian Signals Directorate (ASD) 50 cents Coin
 Solving 75th Australian Signals Directorate 50 cents Coin
 
-#What We know from the Coin
+# What We know from the Coin
 
 ## Heads
 

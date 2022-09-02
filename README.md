@@ -144,4 +144,10 @@ from the outer text we will get the morse code
 
 > .---- ----. ....- --...  -.. ... -... .- .-.. -... . .-. - .--. .- .-. -.-
 
+Lets translate the morse code with https://www.dcode.fr/morse-code
+and we got the bonus text
 
+> 1947DSBALBERTPARK
+
+### Bonus Text
+> 1947 DSB ALBERTPARK
